@@ -1,0 +1,6 @@
+{
+  "name": "Google Keep",
+  "description": "A feature-rich replica of Google Keep featuring notes, checklists, drawings, image attachments, labels, reminders, and Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
